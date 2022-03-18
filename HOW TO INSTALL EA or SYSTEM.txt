@@ -1,0 +1,17 @@
+﻿DEPENDing ON FILES YOUR SYSTEM OR EXPERT ADVISOR COMES WITH -- JUST COPY AND PASTE THEM TO THE INDICATED FOLDER............
+
+´´ex4´´ or ´´mq4´´ file(s)---------(C:\Program Files\MetaTrader \experts
+ 
+´´ex4´´ or ´´mq4´´ file(s)---------(C:\Program Files\MetaTrader \experts\indicators
+      
+´´dll´´ file(s)---------(C:\Program Files\MetaTrader\experts\ libraries
+
+´´tpl´´ File(s)---------(C:\Program Files\MetaTrader\templates
+
+´´set´´ file(s)---------(C:\Program Files\MetaTrader \experts\ presets 
+
+
+
+ Telegram Channel: Robot Family 2022 (link: https://t.me/robotfamily
+
+
